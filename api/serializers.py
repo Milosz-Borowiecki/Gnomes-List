@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from base.models import Gnome
+from api.models import Gnome
 
 class GnomeSerializer(serializers.ModelSerializer):
     class Meta:
