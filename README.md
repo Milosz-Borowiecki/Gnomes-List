@@ -21,6 +21,10 @@ If you want to log in to administration panel go to:
 http://localhost:8000/admin
 ```
 
+#### Username: admin
+
+#### Password: TA3u41pe
+
 ### CRUD
 
 Authentication not required
