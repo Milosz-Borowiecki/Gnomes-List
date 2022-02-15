@@ -4,6 +4,7 @@
 *   Python interpreter
 *   Django package
 *   Django Rest Framework package
+*   Django Filter
 
 
 ### Runserver
